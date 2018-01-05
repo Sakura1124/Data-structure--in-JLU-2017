@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1514427329 source:c:\users\lc\desktop\studentmanage\main.cpp
+	"student.h"
+
+1514427830 c:\users\lc\desktop\studentmanage\student.h
+	<bits/stdc++.h>
+
+1514432245 source:c:\users\lc\desktop\studentmanage¡£2\main.cpp
+	"student.h"
+
+1514432800 c:\users\lc\desktop\studentmanage¡£2\student.h
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1514510995 source:c:\users\lc\desktop\studentmanage.3\main.cpp
+	"student.h"
+
+1514508307 c:\users\lc\desktop\studentmanage.3\student.h
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1515036541 source:c:\users\lc\desktop\studentmanage.4\main.cpp
+	"student.h"
+	<windows.h>
+
+1515037068 c:\users\lc\desktop\studentmanage.4\student.h
+	<bits/stdc++.h>
+	<windows.h>
+
+1515036541 source:c:\users\lc\desktop\studentmanage6.0\main.cpp
+	"student.h"
+	<windows.h>
+
+1515047098 c:\users\lc\desktop\studentmanage6.0\student.h
+	<bits/stdc++.h>
+	<windows.h>
+
+1515065900 source:c:\users\lc\desktop\studentmanage7.0\main.cpp
+	"student.h"
+
+1515065796 c:\users\lc\desktop\studentmanage7.0\student.h
+	<bits/stdc++.h>
+	<windows.h>
+
